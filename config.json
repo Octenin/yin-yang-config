@@ -2,6 +2,6 @@
   "version": 1,
   "bannedPartnerWords": [],
   "instructionsAddendum": "",
-  "dailyFreeLimit": 3,
+  "dailyFreeLimit": 5,
   "aiReadingsEnabled": true
 }
